@@ -1,0 +1,9 @@
+{
+  "root": {
+    "name": "duck",
+    "version": "1.0.0",
+    "features": [],
+    "dependencies": []
+  },
+  "dependencies": []
+}
